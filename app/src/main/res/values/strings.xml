@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Edge AI Studio</string>
+    <string name="nav_radio">Talk Radio</string>
+    <string name="nav_resume">Experience</string>
+    <string name="nav_labs">Edge Labs</string>
+    <string name="nav_contact">Connect</string>
+</resources>

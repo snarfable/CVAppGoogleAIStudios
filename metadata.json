@@ -1,0 +1,6 @@
+{
+  "name": "Edge AI Studio",
+  "description": "Interactive Edge AI & Systems Engineering portfolio, simulation labs, and AI talk radio showcase for Ryan P. Daly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
